@@ -1,0 +1,4 @@
+Yakıt fiyat listesi:
+Kurşunsuz Benzin 95: 14.06 TL/LT 
+Motorin: 14.3 TL/LT 
+Fuel Oil: 11.15 TL/LT

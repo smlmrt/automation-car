@@ -1,0 +1,4 @@
+Depoda bulunan benzin oranları.
+Kurşunsuz Benzin 95: 500 litre %50 doluluk.
+Motorin: 300 litre %30 doluluk.
+Fuel Oil: 100 litre %10 doluluk.
